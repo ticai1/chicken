@@ -6,5 +6,6 @@ this is my first comment
 
 more things. 
 
-
 this is the third thing i'm doing
+
+here are some changes 
